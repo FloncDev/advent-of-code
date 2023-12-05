@@ -1,7 +1,14 @@
+# Input while I havn't made the CLI thing
 **/input.txt
 
+# Rust stuff
 **/target
 **/debug
 **/Cargo.lock
 **/*.rs.bk
 *.pdb
+
+# Funky Graphics
+AoCTiles/
+venv/
+session.cookie
