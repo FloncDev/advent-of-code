@@ -6,7 +6,7 @@ Planning on making a CLI to get the inputs - cache them - and return them via st
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2023 - 6 ⭐
+  2023 - 9 ⭐
 </h1>
 <a href="2023/01/src/main.rs">
   <img src="Media/2023/01.png" width="161px">
@@ -19,6 +19,12 @@ Planning on making a CLI to get the inputs - cache them - and return them via st
 </a>
 <a href="2023/04/main.py">
   <img src="Media/2023/04.png" width="161px">
+</a>
+<a href="2023/05/main.py">
+  <img src="Media/2023/05.png" width="161px">
+</a>
+<a href="2023/06/src/main.rs">
+  <img src="Media/2023/06.png" width="161px">
 </a>
 <!-- AOC TILES END -->
 
