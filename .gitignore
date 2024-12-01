@@ -9,6 +9,7 @@
 *.pdb
 
 # Funky Graphics
-AoCTiles/
+.aoc_tiles/*
+!.aoc_tiles/tiles/
 venv/
 session.cookie
