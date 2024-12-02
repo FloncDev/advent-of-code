@@ -6,10 +6,13 @@ Planning on making a CLI to get the inputs - cache them - and return them via st
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2024 - 2 ⭐ - Python
+  2024 - 4 ⭐ - Python
 </h1>
 <a href="2024/01/main.py">
   <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
+</a>
+<a href="2024/02/1.py">
+  <img src=".aoc_tiles/tiles/2024/02.png" width="161px">
 </a>
 <h1 align="center">
   2023 - 14 ⭐ - 
