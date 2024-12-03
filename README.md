@@ -14,7 +14,7 @@ Planning on making a CLI to get the inputs - cache them - and return them via st
 <a href="2024/02/1.py">
   <img src=".aoc_tiles/tiles/2024/02.png" width="161px">
 </a>
-<a href="2024/03/main.py">
+<a href="2024/03/main.js">
   <img src=".aoc_tiles/tiles/2024/03.png" width="161px">
 </a>
 <h1 align="center">
